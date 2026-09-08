@@ -16,7 +16,7 @@ Python (Pandas), Tableau, Excel
 - `sales.csv.csv` - Main dataset (9,900+ rows)
 - `Tableau Dashboard` - Link / Screenshots below
 ![Sales Dashboard](Screenshot%202026-08-17%20220859.png)
-
+https://public.tableau.com/views/Sales_Dashboard_Final_17888669383520/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ### ▶️ How I Did It
 1. Cleaned data using Python Pandas
